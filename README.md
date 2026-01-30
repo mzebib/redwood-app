@@ -1,1 +1,1 @@
-# redwood-app
+# redwood-sample-app
